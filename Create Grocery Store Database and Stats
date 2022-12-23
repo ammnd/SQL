@@ -5,16 +5,16 @@ CREATE TABLE store (id INTEGER PRIMARY KEY, item TEXT,section TEXT, price INTEGE
 INSERT into store VALUES (1, 'shrimp', 'frozen', 3.50, 5);
 INSERT into store VALUES (2, 'salmon', 'frozen', 25.00, 3);
 INSERT into store VALUES (3, 'onions', 'produce', 1.00, 10);
-INSERT into store VALUES (4, 'rotisserie chicken', 'deli',  5.40, 20);
+INSERT into store VALUES (4, 'rotisserie chicken', 'deli', 5.40, 20);
 INSERT into store VALUES (5, 'tomatoes', 'produce',  0.32, 20);
 INSERT into store VALUES (6, 'red meat', 'deli', 8.00, 34);
 INSERT into store VALUES (7, 'cereal', 'bulk', 7.00, 22);
-INSERT into store VALUES (8, 'apple', 'produce',  .35, 89);
+INSERT into store VALUES (8, 'apple', 'produce', .35, 89);
 INSERT into store VALUES (9, 'banana', 'produce', 1.00, 60);
 INSERT into store VALUES (10, 'grape','produce', 5.00, 50);
 INSERT into store VALUES (11, 'lettuce','produce', 3.45, 45);
 INSERT into store VALUES (12, 'chicken','frozen', 10.45, 22);
-INSERT into store VALUES (13, 'action figure','toy',  15.00, 7);
+INSERT into store VALUES (13, 'action figure','toy', 15.00, 7);
 INSERT into store VALUES (14, 'toy car','toy', 4.00, 20);
 INSERT into store VALUES (15, 'mop','supplies', 6.99, 5);
 
